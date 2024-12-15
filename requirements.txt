@@ -1,1 +1,4 @@
-scipy==1.5.2
+scipy
+numpy
+matplotlib
+sklearn
